@@ -4,9 +4,9 @@ This repository contains the material from Python for Biologist Course
 
 ## Join the community:
 
-<p style="text-align:center;">
-<a href="https://t.me/PythonBiologos" target="_blank"> <!-- when clicked it'll open the website in a new page -->
-  <img src="resources/logo.png" alt="Black Icon" style="width:30%"> <!-- this is your icon, if not loaded it'll just render Black Icon as text -->
+<p align="center">
+<a href="https://t.me/PythonBiologos" target="_blank"> 
+  <img src="resources/logo.png" alt="Black Icon" style="width:30%">
 </a>
 </p>
 
