@@ -10,15 +10,18 @@ This repository contains the material from Python for Biologist Course
 
 ## Course Outline:
 
-1. Introduction
-2. 
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. Introduction and variables
+2. Functions
+3. Conditionals
+4. Loops
+5. Sets and Dictionaries
+6. Exceptions
+7. Libraries
+8. Etc.
 
+## Projects
 
-
+1. Neuron Simulation (Hindmarsh–Rose Model)
+2. Find the Subsequence (finite automata)
+3. Growth models
+4. (EXTRA) Biological Networks 
